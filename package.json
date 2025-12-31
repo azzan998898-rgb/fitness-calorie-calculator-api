@@ -1,0 +1,15 @@
+{
+  "name": "fitness-calorie-api",
+  "version": "1.0.0",
+  "description": "Mobile fitness API for calorie calculations",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "engines": {
+    "node": "18.x"
+  }
+}
